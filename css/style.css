@@ -857,6 +857,7 @@ body.rtl .contact-form button { align-self: flex-start; }
   filter: blur(1px) drop-shadow(0 0 32px #7AC94344);
   animation: floatY 8s ease-in-out infinite alternate;
 }
+
 .vision-card > * { position: relative; z-index: 2; }
 .vision-statement.typewriter {
   font-size: 1.3rem;
